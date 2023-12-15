@@ -1,0 +1,11 @@
+.card{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    top: 30px;
+}
+.header{
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+}
